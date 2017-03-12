@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Coche
+comment1.params=m\ n
+comment1.target=Coche(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=
+comment3.target=java.lang.String\ getModelo()
+comment4.params=
+comment4.target=int\ getVelocidad()
+comment5.params=kmh
+comment5.target=void\ setVelocidad(int)
+comment6.params=kmh
+comment6.target=void\ acelerar(int)
+comment7.params=kmh
+comment7.target=void\ frenar(int)
+comment8.params=
+comment8.target=void\ mostrar()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
